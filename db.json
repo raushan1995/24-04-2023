@@ -1,0 +1,30 @@
+{
+  "seller": [
+    {
+      "name": "raushan",
+      "password": "abcd",
+      "email": "priyanshu1996r@gmail.com",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "samsung",
+      "price": "10000",
+      "color": "black",
+      "category": "mobile",
+      "description": "good product",
+      "image": "abc",
+      "id": 2
+    },
+    {
+      "name": "samsung",
+      "price": "10000",
+      "color": "black",
+      "category": "mobile",
+      "description": "good product",
+      "image": "abc",
+      "id": 4
+    }
+  ]
+}
